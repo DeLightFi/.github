@@ -1,6 +1,6 @@
 ### Hey, welcome on DeLightFi
 
-![Illustration with a DeLightFi logo.](./github_banner.png)
+![Illustration with a DeLightFi logo.](./profile/github_banner.png)
 
 🚀 We are a cutting-edge organization that is all about revolutionizing decentralized finance (DeFi) on the StarkNet blockchain. Our mission is to provide users with the easiest and most efficient way to manage and track their assets, while equipping developers with the right tools to create amazing DeFi apps.
 
